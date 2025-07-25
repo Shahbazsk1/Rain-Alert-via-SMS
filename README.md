@@ -63,16 +63,8 @@
    <li>Go to: <a href="https://console.twilio.com/us1/verified-caller-ids/phone-numbers" target="_blank">Verified Caller IDs</a>
    <li>Click <strong>Add a New Verified Number</strong></li>
    <li>Enter your personal phone number and verify it via OTP.</li>
-</ol>
-
-
-
-
-
-
-
-
-
-
-
-
+</ol><br>
+<h3>Latitude and Longitude API</h3>
+<ul>
+  <li><a href="https://www.latlong.net/"> Click to find your Latitude and Longitude </a></li>
+</ul>
