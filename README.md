@@ -13,7 +13,7 @@
       <li><strong>Purpose:</strong> Get 5-day/3-hour weather forecast.</li>
       <li>API Endpoint:<br>
         <p>https://api.openweathermap.org/data/2.5/forecast</p>
-      </li><br>
+      </li>
       <li>Docs:<br>
         <a href="https://openweathermap.org/forecast5" target="_blank">OpenWeatherMap Forecast API Docs</a>
       </li>
@@ -32,7 +32,7 @@
   </li>
 </ol>
 <h3>Twilio Setup Guide (for SMS Sending)</h3>
-<p><strong></strong>Step 1: Create a Twilio Account</strong></p>
+<p><strong>Step 1: Create a Twilio Account</strong></p>
 <ol>
   <li>Go to <a href="https://www.twilio.com/" target="_blank">https://www.twilio.com/</a></li>
   <li>Click on Sign Up (if you don't have an account) or Log In</li>
