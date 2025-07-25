@@ -18,13 +18,13 @@
         <a href="https://openweathermap.org/forecast5" target="_blank">OpenWeatherMap Forecast API Docs</a>
       </li>
     </ul>
-  </li>
+  </li><br>
   <li>📲 Twilio API
     <ul>
       <li><strong>Purpose:</strong> Send SMS programmatically to a phone number.</li>
       <li><strong>Website:</strong><br>
         <a href="https://www.twilio.com/" target="_blank">Twilio</a>
-      </li>
+      </li><br>
       <li><strong>Python SDK Documentation:</strong><br>
         <a href="https://www.twilio.com/docs/libraries/python" target="_blank">Twilio Python Helper Library</a>
       </li>
